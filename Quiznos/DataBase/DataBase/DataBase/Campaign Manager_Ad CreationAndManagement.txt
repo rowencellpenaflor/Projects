@@ -1,0 +1,17 @@
+Campaign Manager
+Ad Creation and Management
+"MethodID", "Method", "Timestamp", "Status", "Reach", "Engagement", "AllocatedBudget", "Impressions", "CostPerClick"
+                   
+1,  Pamphlet/Posters,  2020-11-27 05:00:00,  On-going,  25000,  35%,  15000,  10000,  $0.10
+2,  TV Commercial/Video Ad,  2023-12-13 12:00:00,  On-going,  55000,  30%,  30000,  55000,  $0.10
+3,  Radio Commercial,  2023-12-18 12:00:00,  Paused,  5000,  5%,  15000,  10000,  $0.10
+4,  Billboard/Magazine,  2023-06-06 05:30:00,  On-going,  55000,  60%,  15000,  55000,  $0.10
+5,  Website, 2023-06-01 06:00:00,  On-going,  60000,  80%,  30000,  65000,  $0.10
+6,  Postcards,  2023-05-01 07:00:00,  On-going,  5000,  15%,  5000,  2500,  $0.00
+7,  Social Media Ads,  2023-04-01 08:00:00,  On-going,  40000,  40%,  6000,  40000,  $0.10
+8,  Product Ads,  2023-03-01 09:00:00,  On-going,  45000,  45%,  5000,  45000,  $0.00,
+9,  Newspaper Ads,  2023-02-01 10:00:00,  On-going,  30000,  25%,  8000,  35000,  $0.15,
+10,  Flyers,  2023-01-01 11:00:00,  On-going,  2000,  10%,  2000,  1500,  $0.05,
+11,  Email Marketing,  2023-02-15 09:00:00,  On-going,  35000,  25%,  10000,  30000,  $0.08,
+12,  Search Engine Ads,  2023-03-20 10:30:00,  Paused,  25000,  20%,  12000,  20000,  $0.12,
+13,  Event Sponsorship,  2023-04-25 13:45:00,  On-going,  45000,  40%,  25000,  40000,  $0.20,

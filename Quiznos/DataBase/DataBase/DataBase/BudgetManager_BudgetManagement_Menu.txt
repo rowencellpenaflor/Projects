@@ -1,0 +1,10 @@
+Budget Manager
+Budget Management 
+Reporting and Analytics
+"MenuNo",            "Components",                             "Amount of Pieces sold"
+  1,      Tacos, Buritos, and Pineapple juice,                       5,000
+  2,      Salad, Onion rings and Oolong tea,                         3,800
+  3,      Chicken burger, Fries and Coke,                            7,500
+  4,      Fried chicken, Spaghetti bolognese and Apple juice,        6,530
+  5,      Pizza, Brownie and Ice cream,                              4,200
+

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DessertMate | User Profile</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.cdnfonts.com/css/poetsenone" rel="stylesheet">
+    <script src="ACCOUNT AUTHENTICATION AND LOGOUT.js" defer></script>
+    <script src="LOGOUT.js" defer></script>
+    <script src="USER PROFILE.js" defer></script>
+    <script src="USERNAME REPLACE LOADING.js" defer></script>
+    <script src="MANAGE MENU VISIBILITY.js" defer></script>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <p class="welcome">Welcome</p>
+            <h1 class="username">Loading...</h1> <!-- Will be replaced with the real username -->
+            <nav>
+                <ul>
+                    <li><a href="HOMEPAGE.html">Chatbot</a></li>
+                    <li><a href="MENU PAGE.html">Menu</a></li>
+                    <li><a href="USER PROFILE.html">Account</a></li>
+                    <li><a href="SUPPORT PAGE.html">Support</a></li>
+                    <li><a href="MANAGE MENU PAGE.html">Manage Menu</a></li>
+                </ul>
+            </nav>
+            <button class="logout">Log Out</button> <!-- Fixed Logout Button -->
+        </aside>
+
+        <!-- Main Content -->
+        <main class="content">
+            <div class="userProfileContent">
+                <h1 style="font-size: 60px;">USER PROFILE</h1>
+                <br><br>
+
+                <!-- Display Current User Info -->
+                <div class="userProfileField">
+                    <div class="userProfileLabel">
+                        <label for="username">Username:</label>
+                    </div>
+                    <div class="userProfileInput">
+                        <input type="text" id="username" name="username" placeholder="Enter your username" readonly>
+                    </div>
+                </div>
+
+                <div class="userProfileField">
+                    <div class="userProfileLabel">
+                        <label for="email">Email:</label>
+                    </div>
+                    <div class="userProfileInput">
+                        <input type="text" id="email" name="email" placeholder="Enter your email" readonly>
+                    </div>
+                </div>
+
+                <div class="userProfileField">
+                    <div class="userProfileLabel">
+                        <label for="contact">Contact #:</label>
+                    </div>
+                    <div class="userProfileInput">
+                        <input type="text" id="phone" name="phone" placeholder="Enter your contact number" readonly>
+                    </div>
+                </div>  
+
+                <br><br>
+                <div class="userProfileButtons">
+                    <button id="edit" class="edit-button">Edit</button>
+                    <button id="save_changes" class="save-button">Save Changes</button>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>
+
+

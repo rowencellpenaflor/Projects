@@ -1,0 +1,23 @@
+Sales Manager
+Audience Segmentation
+
+"CustomerID", "CustomerName", "SegmentName", "AgeGroup", "Gender", "Location", "Interests"
+
+1,  Emily Wilson,  Teens,  13-17,  Female,  Urban,  Fashion, Sports
+2,  James Taylor,  Teens,  13-17,  Male,  Urban,  Sports, Technology
+3,  Jessica Lee,  College Students,  18-24,  Both,  Urban,  Education, Gaming
+4,  Daniel Johnson,  College Students,  18-24,  Both,  Urban,  Education, Gaming
+5,  John Smith,  Young Adults,  18-35,  Male,  Urban,  Technology, Music
+6,  Mary Miller,  Young Adults,  18-35,  Female,  Urban,  Music, Travel
+7,  Olivia Anderson,  Young Adults,  18-35,  Male,  Urban,  Technology, Music
+8,  Jessica Turner,  Young Adults,  18-35,  Female,  Urban,  Music, Travel
+9,  Michael Brown,  Professionals,  30-50,  Both,  Metropolitan,  Business, Finance
+10,  Jennifer White,  Professionals,  30-50,  Female,  Metropolitan,  Business, Travel
+11,  Elizabeth King,  Professionals,  30-50,  Both,  Metropolitan,  Business, Finance
+12,  Sarah Johnson,  Families,  25-45,  Female,  Suburban,  Parenting, Cooking
+13,  David Harris,  Families,  35-55,  Male,  Suburban,  Cooking, Gardening
+14,  William Martinez,  Families,  25-45,  Female,  Suburban,  Parenting, Cooking
+15,  Kevin Adams,  Families,  35-55,  Male,  Suburban,  Cooking, Gardening
+16,  Robert Davis,  Seniors,  55+,  Male,  Rural,  Gardening, Travel
+17,  Lisa Clark,  Seniors,  60+,  Female,  Rural,  Gardening, Music
+18,  Susan Adams,  Seniors,  55+,  Male,  Rural,  Gardening, Travel

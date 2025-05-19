@@ -1,0 +1,18 @@
+Campaign Manager
+Campaign Analysis
+"CampaignID", "CampaignName", "StartDate", "EndDate", "Budget", "TargetAudience", "Objective"
+1, Summer Special, 2023-06-01, 2023-08-31, $50,000, Food Enthusiasts, Sales Promotion
+2, Holiday Feast, 2023-11-15, 2023-12-31, $40,000, Families, Brand Awareness
+3, Spring Fling, 2023-03-01, 2023-05-31, $30,000, Young Adults, Product Launch
+4, Winter Wonderland, 2023-12-01, 2024-02-28, $60,000, Families, Brand Awareness
+5, Autumn Extravaganza, 2023-09-01, 2023-11-30, $45,000, Food Enthusiasts, Sales Promotion
+6, Back to School, 2023-07-01, 2023-09-30, $35,000, Students, Product Launch
+7, New Year, New You, 2024-01-01, 2024-01-31, $55,000, Adults, Brand Awareness
+8, Valentine's Special, 2024-02-01, 2024-02-14, $25,000, Couples, Sales Promotion
+9, Easter Extravaganza, 2024-04-01, 2024-04-30, $40,000, Families, Product Launch
+10, Mid-Year Sale, 2024-06-01, 2024-06-30, $50,000, Budget Shoppers, Sales Promotion
+11, Fall Festival, 2024-09-01, 2024-11-30, $45,000, Families, Brand Awareness
+12, Winter Sale, 2024-12-01, 2024-12-31, $60,000, Budget Shoppers, Sales Promotion
+13, Spring Sale, 2024-03-01, 2024-05-31, $35,000, Young Adults, Product Launch
+14, Summer Festival, 2024-06-01, 2024-08-31, $50,000, Families, Brand Awareness
+15, Back to School Sale, 2024-07-01, 2024-09-30, $40,000, Students, Sales Promotion

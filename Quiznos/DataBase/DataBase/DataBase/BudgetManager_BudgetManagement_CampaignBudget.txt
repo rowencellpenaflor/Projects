@@ -1,0 +1,19 @@
+Budget Manager
+Budget Management 
+Campaign Budget
+"CampaignID", "Campaign Name", "Allocated Budget"
+1, Summer Special, $50,000
+2, Holiday Feast,  $40,000
+3, Spring Fling,   $30,000
+4, Winter Wonderland,$60,000
+5, Autumn Extravaganza,$45,000
+6, Back to School, $35,000
+7, New Year, New You,$55,000
+8, Valentine's Special, $25,000
+9, Easter Extravaganza, $40,000
+10, Mid-Year Sale,  $50,000
+11, Fall Festival, $45,000
+12, Winter Sale,  $60,000
+13, Spring Sale,  $35,000
+14, Summer Festival, $50,000
+15, Back to School Sale, $40,000

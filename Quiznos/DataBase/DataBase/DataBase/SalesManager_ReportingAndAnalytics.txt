@@ -1,0 +1,26 @@
+Sales Manager
+Reporting and Analytics
+
+"Trend ID", "Date", "MarketSegment", "Indicator", "Value"
+                   
+
+1, 2023-06-01, Fast Food, ConsumerDemand, 78                     	
+2, 2023-06-01, Sandwich Shops, SalesGrowth, 10%
+3, 2023-11-01, Fast Food, ConsumerDemand, 75
+4, 2023-11-01, Sandwich Shops, SalesGrowth, 8%
+5, 2024-03-01, Fast Food, ConsumerDemand, 80
+6, 2024-03-01, Sandwich Shops, SalesGrowth, 12%
+7, 2024-08-01, Fast Food, ConsumerDemand, 85
+8, 2024-08-01, Sandwich Shops, SalesGrowth, 15%
+
+
+
+
+
+	
+
+
+
+
+
+                 

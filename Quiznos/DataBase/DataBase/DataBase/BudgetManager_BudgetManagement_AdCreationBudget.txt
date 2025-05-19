@@ -1,0 +1,8 @@
+Budget Manager
+Budget Management 
+Ad Creation Budget
+"MethodID", "Method",  "Allocated Budget"
+1,Pamphlet/Posters, $10,000
+2,TV Commercial, $30,000
+3,Radio Commercial, $20,000
+4,Billboard/Magazine Commercial, $15,000
