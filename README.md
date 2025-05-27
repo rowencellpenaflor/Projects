@@ -1,6 +1,6 @@
 # Projects
 
-⭕ # **Data Science Projects**
+⭕ **Data Science Projects**
 
 The data science project folder contains 3 subfolders. These subfolders contain the activities on data science specialization such as summative and formative assessments.
 
@@ -16,3 +16,5 @@ ________________________________________________________________________________
 
 This folder contains the code of the project with the same name. It has two subfolders, BACKEND and FRONTEND. The BACKEND folder contains the backend part of the code written using JavaScript while the FRONTEND folder contains the frontend part of the code written using HTML and CSS. 
  
+_________________________________________________________________________________________________________________________________________________________________________________
+
