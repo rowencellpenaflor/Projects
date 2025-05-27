@@ -1,6 +1,6 @@
 # Projects
 
-⭕ **Data Science Projects**
+⭕ # **Data Science Projects**
 
 The data science project folder contains 3 subfolders. These subfolders contain the activities on data science specialization such as summative and formative assessments.
 
