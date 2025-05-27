@@ -1,6 +1,7 @@
 # Projects
 
-⭕ Data Science Projects
+⭕ **Data Science Projects**
+
 The data science project folder contains 3 subfolders. These subfolders contain the activities on data science specialization such as summative and formative assessments.
 
 ➡️ In Data Science 1, the focus of the course is on Natural Language Processing, and Machine Learning techniques used for object classification, image segmentation and classifying emotions based on facial recognition and audio analysis. 
